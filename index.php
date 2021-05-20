@@ -1,0 +1,1 @@
+<?php require_once("Servlet-mayo2021-1.0-SNAPSHOT.war") ?>
